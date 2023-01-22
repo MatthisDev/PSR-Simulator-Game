@@ -123,4 +123,4 @@ def generate_game(nmb_games_need):
 
     return embed
 
-bot.run("MTAyMTQ1Njc5ODk3NDIyMjMzNg.GrvhEs.sgEedxPy-7uXNhTTqUppqs6zhjf1JHZQ1vfqMY")
+bot.run("...")
